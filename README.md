@@ -5,7 +5,7 @@
 
 GeneFusionFissioner is an update of fdfBLAST_1.20120704.pl. The new version is executed by a shell script, instead of the original interface input.
 
-If you have any questions, please contact yuann@big.ac.cn.
+If you have any questions, please contact sisichen201@163.com.
 
 ================
 
